@@ -22,4 +22,4 @@ Fichiers clients avec noms altérés (`CLEM@ENT`), formats de dates et séparate
 ## Stack
 Oracle SQL · PL/SQL · SQL*Loader · JSON
 
-**Célestine LENO** — [LinkedIn](https://www.linkedin.com/in/celestineleno)
+**Célestine LENO**  [LinkedIn](https://www.linkedin.com/in/celestineleno)
