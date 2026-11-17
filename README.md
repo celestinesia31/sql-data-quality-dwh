@@ -1,6 +1,6 @@
 # 🗄️ SQL, qualité des données & Data Warehouse (Oracle)
 
-Travaux de Master 2 EI2D (Université Sorbonne Paris Nord).
+Travaux de Master 2 en Exploration Informatique des Données et Décisionnel (EI2D) à l'Université Sorbonne Paris Nord.
 
 Les scripts comparent les clients avec UTL_MATCH (similarité de Jaro-Winkler et distance d’édition), SOUNDEX et des expressions régulières, puis signalent les doublons probables avant intégration dans l’entrepôt.
 
